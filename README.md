@@ -74,12 +74,12 @@ streamlit run app.py
 *Shows the main app interface.*
 
 ### 2. Parameter Controls
-![Controls](assets/Edge_Detection_Controls.jpg)
+![Controls](assets/Edge_detection_controls.jpg)
 *Shows the sidebar where thresholds, kernel size, and blur are adjusted.*
 
 ### 3. Original vs Edge-Detected Images
 ![Output 1](assets/Output1.jpg)
-![Output 2](assets/output2.jpg)
+![Output 2](assets/Output2.jpg)
 *Side-by-side comparisons of original images and processed edge-detected images.*
 
 ## Notes
