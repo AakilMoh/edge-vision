@@ -51,7 +51,7 @@ st.markdown("""
 
 
 # Logo Section
-banner = Image.open("logo.png")
+banner = Image.open("assets/logo.png")
 st.image(banner, use_container_width=True)
 
 # Title and Description
