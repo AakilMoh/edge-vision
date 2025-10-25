@@ -35,9 +35,9 @@ cd edge-vision
 2. **Create a virtual environment**:
 
 python -m venv venv
-# On Windows
+#### On Windows
 venv\Scripts\activate
-# On macOS/Linux
+#### On macOS/Linux
 source venv/bin/activate
 
 3. **Install dependencies:**:
@@ -69,17 +69,17 @@ streamlit run app.py
 ## Screenshots
 
 ### 1. Application Interface
-![Interface 1](assets/UI 1.png)
-![Interface 2](assets/UI 2.png)
+![Interface 1](assets/UI%201.png)
+![Interface 2](assets/UI%202.png)
 *Shows the main app interface.*
 
 ### 2. Parameter Controls
-![Controls](assets/Edge Detection Controls.png)
+![Controls](assets/Edge%20Detection%20Controls.png)
 *Shows the sidebar where thresholds, kernel size, and blur are adjusted.*
 
 ### 3. Original vs Edge-Detected Images
-![Output 1](assets/output 1.png)
-![Output 2](assets/output 2.png)
+![Output 1](assets/output%201.png)
+![Output 2](assets/output%202.png)
 *Side-by-side comparisons of original images and processed edge-detected images.*
 
 ## Notes
