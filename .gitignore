@@ -1,0 +1,20 @@
+# Virtual environment folders
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Ignore design files
+assets/*.psd
+assets/*.ai
