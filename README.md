@@ -78,8 +78,8 @@ streamlit run app.py
 *Shows the sidebar where thresholds, kernel size, and blur are adjusted.*
 
 ### 3. Original vs Edge-Detected Images
-![Output 1](assets/output%201.png)
-![Output 2](assets/output%202.png)
+![Output 1]("assets/Output 1.jpg")
+![Output 2](assets/output 2.png)
 *Side-by-side comparisons of original images and processed edge-detected images.*
 
 ## Notes
